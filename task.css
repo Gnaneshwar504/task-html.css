@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    margin: 0px;
+    font-family: Roboto;
+}
+
+.info-list-top {
+    display: flex;
+    justify-content: space-between;
+    background-color: #890493;
+    color: #FFFEFF;
+    list-style-type: none;
+    padding: 5px;
+    margin-bottom: 0px;
+}
+
+.nav-head {
+    background-color: #024C74;
+    justify-content: space-between;
+}
+
+.logo {
+    height: 50px;
+    width: 100px;
+}
+
+.pic1 {
+    height: 50%;
+    width: 70%;
+}
+
+.anise-bistro-tab {
+    padding: 50px;
+
+
+}
+
+.Anise-Bistro-head {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.traditional {
+    color: #FFC300;
+    font-family: Caveat;
+    font-size: 12px;
+
+}
+
+
+.btn1 {
+    color: #C70039;
+    background-color: transparent;
+    border-color: #C70039;
+    border-width: 1px;
+    padding: 8px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.btn2 {
+    color: #FDFBFB;
+    background-color: #FFC300;
+    border-width: 0px;
+    padding: 8px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.menu-items-container {
+    background-color: #F4F6F9;
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.menu-button {
+    color: #FDFEFE;
+    background-color: #CD6155;
+    border-width: 0px;
+    padding: 8px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.menu-item1 {
+    display: flex;
+}
+
+.menu-item2 {
+    display: flex;
+}
+
+.menu-item {
+    font-weight: 900;
+    color: #FDFEFE;
+    font-size: 20px;
+    background-color: #F8C471;
+    margin-bottom: 30px;
+    margin-right: 5px;
+    height: 130px;
+    width: 90%;
+    padding: 10px;
+}
+
+.slideee {
+    background-color: #5D6D7E;
+    text-align: center;
+    padding: 50px;
+}
+
+.reservation-container {
+    padding: 20px;
+}
+
+.p1 {
+    font-weight: bold;
+}
+
+.form-cintainer {
+    background-color: #F2F4F4;
+    padding: 5px;
+}
+
+.inpu {
+    width: 150px;
+
+}
+
+.footer-container {
+    background-color: #7A036E;
+    color: #FDFAFD;
+    text-align: center;
+}
+
+.num {
+    color: #F62706;
+}
